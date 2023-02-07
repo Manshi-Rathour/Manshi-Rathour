@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 🌱 I’m currently learning web development.
 
-📫 How to reach me: manshi2086@gmail.com
-
 🔭 I’m interested in machine learning and exploring new ideas.
+
+📫 How to reach me: manshi2086@gmail.com
 
 ⚡ EAT -> SLEEP -> CODE -> REPEAT
 
