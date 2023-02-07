@@ -26,12 +26,12 @@ Here are some ideas to get you started:
 🙂
 
 if (brain != empty):
-
-    print(keep coding)
+   
+   print(keep coding)
   
 else:
 
-    print(need coffee)
+   print(need coffee)
     
 
 
