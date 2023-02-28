@@ -1,6 +1,10 @@
-<img align="center" width=100% scr="https://www.shutterstock.com/image-vector/programming-code-coding-hacker-background-260nw-1714491562.jpg" alt="coding">
+<!-- <img align="center" alt="Coding" width=100% src="https://geekflare.com/wp-content/uploads/2022/10/Learn-Coding-in-a-Fun-Way-on-These-7-Platforms.jpeg"> -->
 
 
+<!-- <img align="center" alt="Coding" width=100% height ="400" src="https://www.softwareone.com/-/media/global/social-media-and-blog/hero/implementing-artificial-intelligence-part-1-hero.jpg?rev=56ebf75efd06466786861433a1cae008&sc_lang=hu-hu&hash=BB0B197D8F1E5BD3D11B11556A5383E7"> -->
+
+
+<img align="center" alt="Coding" width=100% height ="400" src="https://engineering.fb.com/wp-content/uploads/2016/12/grid-AI.jpg">
 
 
 <h1 align="center">Hey 👋,  Manshi here</h1>
