@@ -15,7 +15,7 @@
 
 - 🔭 I’m interested in **Machine Learning and AI**
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **Deep Learning**
 
 - 📫 How to reach me **manshi2086@gmail.com**
 
