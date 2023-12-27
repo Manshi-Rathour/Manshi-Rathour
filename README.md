@@ -19,6 +19,15 @@
 
 - 📫 How to reach me **manshi2086@gmail.com**
 
+
+
+  
+
+➡️ My First Website in Flask: https://todoflask.azurewebsites.net/
+
+➡️ Real Estate Price Prediction: https://realestatepriceprediction.azurewebsites.net/            
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3B43E%2BMHfURlW4AXoxFXbfCw%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/manshi-rathour-bb0b87272" height="30" width="40" /></a>  
