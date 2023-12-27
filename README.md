@@ -22,10 +22,15 @@
 
 
   
-
+<h3 align="left">Data Science and AI Projects:</h3>
 ➡️ My First Website in Flask: https://todoflask.azurewebsites.net/
+<br><br>
+➡️ Real Estate Price Prediction: https://realestatepriceprediction.azurewebsites.net/     
 
-➡️ Real Estate Price Prediction: https://realestatepriceprediction.azurewebsites.net/            
+<h3 align="left">Data Analysis Projects(Live Dashboards):</h3>
+➡️ Revenue Insights: https://bit.ly/First_Resume_Project
+<br><br>
+➡️ Business Insights 360: https://bit.ly/My-PowerBI-Report
 
 
 <h3 align="left">Connect with me:</h3>
