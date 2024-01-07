@@ -1,8 +1,3 @@
-<!-- <img align="center" alt="Coding" width=100% src="https://geekflare.com/wp-content/uploads/2022/10/Learn-Coding-in-a-Fun-Way-on-These-7-Platforms.jpeg"> -->
-
-
-<!-- <img align="center" alt="Coding" width=100% height ="400" src="https://www.softwareone.com/-/media/global/social-media-and-blog/hero/implementing-artificial-intelligence-part-1-hero.jpg?rev=56ebf75efd06466786861433a1cae008&sc_lang=hu-hu&hash=BB0B197D8F1E5BD3D11B11556A5383E7"> -->
-
 
 <!-- <img align="center" alt="Coding" width=100% height ="300" src="https://wallpapercave.com/wp/wp4748439.jpg"> -->
 
@@ -45,6 +40,7 @@
 <p align="left">
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="cpp" width="40" height="40"/> </a>
+<a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png" alt="java" width="30" height="40"/> </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
 <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://numpy.org/images/logo.svg" alt="numpy" width="40" height="40"/> </a>
