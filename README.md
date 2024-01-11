@@ -4,6 +4,8 @@
 
 <h1 align="center">Hey 👋,  Manshi here</h1>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=manshi-rathour&label=Profile%20views&color=0e75b6&style=flat" alt="manshi-rathour" /> </p>
+
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
@@ -63,7 +65,7 @@
 <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/opencv/opencv/wiki/logo/OpenCV_logo_no_text.png" alt="opencv" width="40" height="40"/> </a> 
 <a href="https://pypi.org/project/beautifulsoup4/" target="_blank" rel="noreferrer"> <img src="https://editor.analyticsvidhya.com/uploads/82659bs4.PNG" alt="beautifulsoup" width="100" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-<a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:1400/1*QOx_tPV5wJnhTzAGhfIiLA.png" alt="postman" width="100" height="40"/></a>
+<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 <a href="https://huggingface.co/" target="_blank" rel="noreferrer"> <img src="https://workable-application-form.s3.amazonaws.com/advanced/production/61557f91d9510741dc62e7f8/c3635b59-a3d2-444a-b636-a9d0061dcdde" alt="hugging_face" width="40" height="40"/></a>
 <a href="https://cloud.google.com/?hl=en" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/google-cloud-icon-2048x1646-7admxejz.png" alt="google_cloud_platform" width="40" height="40"/></a>
 <a href="https://portal.azure.com/" target="_blank" rel="noreferrer"> <img src="https://arunpotti.files.wordpress.com/2021/12/microsoft_azure.svg_.png" alt="azure" width="40" height="40"/></a>
