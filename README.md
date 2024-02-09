@@ -10,9 +10,11 @@
 
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
 
-- 🔭 I’m interested in **AI and Data Analysis**
+- 🧠 Passionate about **AI**, **ML**, and **NLP**
 
-- 🌱 I’m currently learning **Deep Learning**
+- 🎓 Currently diving deep into the world of **Deep Learning**
+
+- 🌐 Exploring diverse domains of **AI** to broaden knowledge,<br> with a focus on 📈 becoming a Future **Data Scientist**.
 
 - 📫 How to reach me **manshi2086@gmail.com**
 
