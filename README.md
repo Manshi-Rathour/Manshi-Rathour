@@ -22,7 +22,7 @@
 
   
 <h3 align="left">Data Science and AI Projects:</h3>
-➡️ My First Website in Flask: https://todoflask.azurewebsites.net/
+➡️ AI Assistant: https://ai-assistant-i1l3.onrender.com
 <br><br>
 ➡️ Real Estate Price Prediction: https://realestatepriceprediction.azurewebsites.net/     
 
