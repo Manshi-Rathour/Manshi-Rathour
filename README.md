@@ -34,10 +34,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3B43E%2BMHfURlW4AXoxFXbfCw%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/manshi-rathour-bb0b87272" height="30" width="40" /></a>  
-<a href="https://www.hackerrank.com/manshi2086" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/manshi2086" height="40" width="50" /></a>
-<a href="https://www.kaggle.com/manshirathour" target="blank"><img align="center" src="https://www.kaggle.com/static/images/site-logo.svg" alt="https://www.kaggle.com/manshirathour" height="40" width="50" /></a>
-<a href="https://leetcode.com/Manshi_Rathour/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="https://leetcode.com/Manshi_Rathour/" height="45" width="50" /></a>
+<a href="https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3B43E%2BMHfURlW4AXoxFXbfCw%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>  
+<a href="https://leetcode.com/Manshi_Rathour/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="45" width="50" /></a>
+<a href="https://www.geeksforgeeks.org/user/manshiavrx/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/GeeksforGeeks.svg/1280px-GeeksforGeeks.svg.png" alt="GFG" height="30" width="50" /></a>
+<a href="https://www.hackerrank.com/manshi2086" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="40" width="50" /></a>
+<a href="https://www.kaggle.com/manshirathour" target="blank"><img align="center" src="https://www.kaggle.com/static/images/site-logo.svg" alt="Kaggle" height="40" width="50" /></a>
+
 </p>
 
 
