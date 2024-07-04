@@ -75,6 +75,7 @@
 <a href="https://huggingface.co/" target="_blank" rel="noreferrer"> <img src="https://workable-application-form.s3.amazonaws.com/advanced/production/61557f91d9510741dc62e7f8/c3635b59-a3d2-444a-b636-a9d0061dcdde" alt="hugging_face" width="40" height="40"/></a>
 <a href="https://cloud.google.com/?hl=en" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/google-cloud-icon-2048x1646-7admxejz.png" alt="google_cloud_platform" width="50" height="40"/></a>
 <a href="https://portal.azure.com/" target="_blank" rel="noreferrer"> <img src="https://arunpotti.files.wordpress.com/2021/12/microsoft_azure.svg_.png" alt="azure" width="40" height="40"/></a>
+<a href="https://streamlit.io/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/S/streamlit-logo-1A3B208AE4-seeklogo.com.png" alt="streamlit" width="60" height="40"/></a>
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manshi-rathour&show_icons=true&locale=en&layout=compact" alt="manshi-rathour" /></p>
 
