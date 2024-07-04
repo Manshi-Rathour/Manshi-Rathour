@@ -22,9 +22,11 @@
 <h3 align="left">Data Science and AI Projects:</h3>
 ➡️ AI Assistant: https://ai-assistant-i1l3.onrender.com
 <br><br>
-➡️ QnA using LLM: https://qna-using-llm.streamlit.app/     
+➡️ QnA using LLM: https://qna-using-llm.streamlit.app/   
 <br><br>
-➡️ Real Estate Price Prediction: https://realestatepriceprediction.azurewebsites.net/     
+➡️ Career-Vision: https://career-vision.streamlit.app/ 
+<br><br>
+➡️ Real Estate Price Prediction: https://real-estate-obz5.onrender.com     
 
 <h3 align="left">Data Analysis Projects(Live Dashboards):</h3>
 ➡️ Revenue Insights: https://bit.ly/First_Resume_Project
