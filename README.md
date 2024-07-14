@@ -24,7 +24,7 @@
 <br><br>
 ➡️ Article Research Tool: https://article-research-tool.streamlit.app/
 <br><br>
-➡️ QnA using LLM: https://qna-using-llm.streamlit.app/   
+➡️ GitaBot: https://gita-bot.streamlit.app/   
 <br><br>
 ➡️ Real Estate Price Prediction: https://real-estate-obz5.onrender.com     
 
