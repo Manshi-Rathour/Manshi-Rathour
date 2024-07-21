@@ -20,11 +20,11 @@
 
   
 <h3 align="left">Data Science and AI Projects:</h3>
+➡️ GitaBot: https://gita-bot.streamlit.app/   
+<br><br>
 ➡️ AI Assistant: https://ai-assistant-i1l3.onrender.com
 <br><br>
 ➡️ Article Research Tool: https://article-research-tool.streamlit.app/
-<br><br>
-➡️ GitaBot: https://gita-bot.streamlit.app/   
 <br><br>
 ➡️ Real Estate Price Prediction: https://real-estate-obz5.onrender.com     
 
