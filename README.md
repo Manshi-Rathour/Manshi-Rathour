@@ -8,9 +8,9 @@
 
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
 
-- 🧠 Passionate about **AI**, **ML**, and **NLP**
+- 🧠 Passionate about **AI**, **ML**, **DL** and **NLP**
 
-- 🎓 Currently diving deep into the world of **Deep Learning**
+- 🎓 Currently diving deep into the world of **MERN Stack** and **DSA**
 
 - 🌐 Exploring diverse domains of **AI** to broaden knowledge,<br>&emsp;&emsp;with a focus on becoming Future **Data Scientist**.
 
@@ -19,7 +19,7 @@
 
 
   
-<h3 align="left">Data Science and AI Projects:</h3>
+<h3 align="left">AI Projects:</h3>
 ➡️ GitaBot: https://bit.ly/gita-bot
 <br><br>
 ➡️ AI Assistant: https://ai-assistant-i1l3.onrender.com
