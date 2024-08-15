@@ -20,7 +20,7 @@
 
   
 <h3 align="left">Data Science and AI Projects:</h3>
-➡️ GitaBot: https://gita-bot.streamlit.app/   
+➡️ GitaBot: https://bit.ly/gita-bot
 <br><br>
 ➡️ AI Assistant: https://ai-assistant-i1l3.onrender.com
 <br><br>
