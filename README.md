@@ -19,7 +19,9 @@
 
 
   
-<h3 align="left">AI Projects:</h3>
+<h3 align="left">AI with Web app Projects:</h3>
+➡️ ChatMate: https://chatmate-04mg.onrender.com/
+<br><br>
 ➡️ GitaBot: https://bit.ly/gita-bot
 <br><br>
 ➡️ AI Assistant: https://ai-assistant-i1l3.onrender.com
