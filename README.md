@@ -8,7 +8,7 @@
 
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
 
-- 🧠 Passionate about **AI**, **ML**, **DL** and **NLP**
+- 🧠 Passionate about **AI**, **ML**, and **NLP**
 
 - 🎓 Currently diving deep into the world of **MERN Stack** and **DSA**
 
@@ -17,21 +17,6 @@
 - 📫 How to reach me **manshi2086@gmail.com**
 
 
-
-  
-<h3 align="left">AI with Web app Projects:</h3>
-➡️ GitaBot: https://bit.ly/gita-bot
-<br><br>
-➡️ AI Assistant: https://ai-assistant-i1l3.onrender.com
-<br><br>
-➡️ Article Research Tool: https://article-research-tool.streamlit.app/
-<br><br>
-➡️ Real Estate Price Prediction: https://real-estate-obz5.onrender.com     
-
-<h3 align="left">Data Analysis Projects(Live Dashboards):</h3>
-➡️ Revenue Insights: https://bit.ly/First_Resume_Project
-<br><br>
-➡️ Business Insights 360: https://bit.ly/My-PowerBI-Report
 
 
 <h3 align="left">Connect with me:</h3>
