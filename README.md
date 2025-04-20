@@ -1,6 +1,6 @@
 <h1 align="center">Hey 👋,  Manshi here</h1>
 
-<h3 align="center">Full Stack Python Developer & Aspiring Data Scientist</h3>
+<h3 align="center">AI Full Stack Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manshi-rathour&label=Profile%20views&color=0e75b6&style=flat" alt="manshi-rathour" /> </p>
 
