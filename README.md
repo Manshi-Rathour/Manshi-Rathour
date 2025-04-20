@@ -12,7 +12,7 @@
 
 - 🎓 Currently diving deep into the world of **MERN Stack** and **DSA**
 
-- 🌐 Exploring diverse domains of **AI** to broaden knowledge,<br>&emsp;&emsp;with a focus on becoming Future **Data Scientist**.
+- 🌐 Exploring diverse domains of **AI** to broaden knowledge.
 
 - 📫 How to reach me **manshi2086@gmail.com**
 
