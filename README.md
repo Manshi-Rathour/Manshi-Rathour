@@ -58,9 +58,7 @@
   
 - Machine Learning & Deep Learning: Scikit-learn, TensorFlow, Keras, OpenCV
   
-- NLP & LLM: LangChain, NLTK, SpaCy, FastText, HuggingFace
-  
-- AI Agent Development: Phidata, Groq
+- NLP & LLM: LangChain, NLTK, SpaCy, FastText, HuggingFace, AI Agents
   
 - Web Development: HTML, CSS, Bootstrap, JavaScript, React, Express, Node.js, Flask, FastAPI, Streamlit
   
