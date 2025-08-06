@@ -66,19 +66,6 @@
 
 <h1></h1>
 
-<h3 align="left">Tools:</h3>
-
-<p align="left">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://code.visualstudio.com/assets/branding/app-icon.png" alt="vscode" width="40" height="40"/></a>
-<a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1024px-PyCharm_Icon.svg.png" alt="pycharm" width="40" height="40"/></a>
-<a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png" alt="intellijIDEA" width="40" height="40"/></a>
-<a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://jupyter.org/assets/share.png" alt="jupyterNotebook" width="80" height="40"/></a>
-</p>
-
-<h1></h1>
-
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manshi-rathour&show_icons=true&locale=en&layout=compact" alt="manshi-rathour" /></p>
 
