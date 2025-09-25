@@ -51,11 +51,11 @@
 <h3 align="left">Skills:</h3>
 
 - **Programming Languages:** C, C++, Python, Java (DSA)
-- **Data Science:** Pandas, Numpy, Matplotlib, Seaborn, Data Visualization, EDA
-- **AI/ML:** Scikit-learn, TensorFlow, Keras, NLTK, SpaCy, HuggingFace, LangChain, AI Agents, Gen AI
-- **Web Development:** HTML, CSS, JavaScript, React, Express, Node.js, Flask, FastAPI, Streamlit
+- **Data Science:** Excel, Pandas, Numpy, Matplotlib, Seaborn
+- **AI:** Scikit-learn, TensorFlow, PyTorch, LangChain, RAG, LLMs, AI Agents, GenAI
+- **Web Development:** HTML, CSS, JavaScript, React, Express, Node.js, Flask, FastAPI
 - **Database Management:** MySQL, MongoDB
-- **Cloud & Tools:** GCP , Azure, Git, GitHub, Postman, n8n, REST APIs
+- **Cloud & Tools:** GCP, Azure, AWS, Git, GitHub, Postman, n8n
 
 <h1></h1>
 
