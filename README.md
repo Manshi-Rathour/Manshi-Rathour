@@ -4,9 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manshi-rathour&label=Profile%20views&color=0e75b6&style=flat" alt="manshi-rathour" /> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-
 <h3 align="left">👨‍💻 About Me:</h3>
 
 - 🎓 Undergraduate student at <b>Amity University, Patna</b>, focused on <b>Data Science</b>, <b>Machine Learning</b>, <b>AI</b>, and <b>Full Stack Web Development</b>.
