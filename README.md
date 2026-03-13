@@ -47,12 +47,15 @@
 
 <h3 align="left">Skills:</h3>
 
-- **Programming Languages:** C, C++, Python, Java (DSA)
-- **Data Science:** Excel, Pandas, Numpy, Matplotlib, Seaborn
-- **AI:** Scikit-learn, TensorFlow, PyTorch, LangChain, RAG, LLMs, AI Agents, GenAI
-- **Web Development:** HTML, CSS, JavaScript, React, Express, Node.js, Flask, FastAPI
-- **Database Management:** MySQL, MongoDB
-- **Cloud & Tools:** GCP, Azure, AWS, Git, GitHub, Postman, n8n
+- **Programming Languages**: C, C++, Python, Java
+- **Data Science & Analysis**: Excel, Pandas, NumPy, Matplotlib, Seaborn, Exploratory Data Analysis (EDA)
+- **Machine Learning**: Scikit-learn, Feature Engineering, Model Building, Hyperparameter Tuning, Model Evaluation, Classification, Regression
+- **Deep Learning**: TensorFlow, Keras, PyTorch, CNN
+- **LLMs & GenAI**: RAG, LangChain, Pinecone, FAISS, Sentence Transformers, AI Agents
+- **Natural Language Processing**: Text Processing, Tokenization, Embeddings, Semantic Search, NLP Pipelines
+- **Web Development**: HTML, CSS, React, REST APIs, Flask, FastAPI, Streamlit
+- **Database**: MySQL, MongoDB
+- **Cloud & Tools**: GCP, Azure, AWS, Git, GitHub, Postman, n8n, Hugging Face
 
 <h1></h1>
 
