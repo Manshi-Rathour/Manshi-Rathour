@@ -6,13 +6,11 @@
 
 <h3 align="left">👨‍💻 About Me:</h3>
 
-- 🎓 Undergraduate student at <b>Amity University, Patna</b>, focused on <b>Data Science</b>, <b>Machine Learning</b>, <b>AI</b>, and <b>Full Stack Web Development</b>.
-- 💡 Passionate about building <b>end-to-end AI and web solutions</b> through hands-on projects.
-- 🤖 Exploring <b>LLMs</b>, <b>Generative AI</b>, and modern <b>NLP</b> technologies for automation and intelligent systems.
-- 🧠 Actively improving skills in <b>Data Structures & Algorithms</b> for writing efficient code.
-- 🌱 Committed to <b>continuous learning</b>, <b>open-source contributions</b>, and engaging with the tech community.
-- 🤝 Open to <b>internships</b>, <b>collaborative projects</b>, and impactful <b>tech initiatives</b>.
-
+- 🎓 B.Tech in Computer Science at <b>Amity University Patna</b> (CGPA: <b>9.0/10</b>), with a strong foundation in <b>Machine Learning</b>, <b>Deep Learning</b>, <b>LLMs</b>, and <b>Software Engineering</b>.
+- 🤖 Full-Stack AI Developer experienced in building production-ready applications using <b>Python</b>, <b>FastAPI</b>, <b>React</b>, <b>RAG</b>, <b>AI Agents</b>, <b>Docker</b>, and <b>AWS</b>.
+- 🚀 Passionate about designing scalable, end-to-end AI systems, intelligent automation workflows, and data-driven applications that solve real-world problems.
+- 📚 Continuously exploring advancements in <b>Generative AI</b>, <b>Agentic AI</b>, <b>MLOps</b>, and cloud technologies.
+- 🤝 Open to <b>Software Engineer</b>, <b>AI/ML Engineer</b>, <b>Backend Developer</b>, and <b>AI Developer</b> opportunities.
 
 <h1></h1>
 
@@ -23,7 +21,7 @@
     <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" height="40" width="40" />
   </a>&nbsp;&nbsp;&nbsp;
   
-  <a href="https://www.linkedin.com/in/manshi-rathour-bb0b87272/" target="_blank">
+  <a href="https://www.linkedin.com/in/manshi-rathour/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
   </a>&nbsp;&nbsp;&nbsp;
   
@@ -47,12 +45,11 @@
 
 <h3 align="left">Skills:</h3>
 
-- **Programming**: Python, Java
-- **Data Analysis**: Excel, Pandas, NumPy, Matplotlib, Seaborn
-- **AI/ML**: Scikit-learn, PyTorch, TensorFlow, LangChain, RAG, LLMs
-- **Web Development**: HTML, CSS, React, Flask, FastAPI
-- **Databases**: MongoDB, MySQL
-- **Cloud & Tools**: GCP, Azure, GitHub, Postman, n8n, Hugging Face
+- **Programming:** Python, Java
+- **AI/ML:** Pandas, NumPy, EDA, Scikit-learn, Tensorflow, LLMs, LangChain, RAG
+- **Web Development:** HTML, CSS, React, Flask, FastAPI
+- **Databases:** MongoDB, MySQL, FAISS, Pinecone
+- **Cloud & Tools:** Docker, AWS, Azure, Git, Postman, Hugging Face, n8n
 
 <h1></h1>
 
