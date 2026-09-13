@@ -6,7 +6,7 @@
 
 <h3 align="left">👨‍💻 About Me:</h3>
 
-- 🎓 B.Tech in Computer Science at <b>Amity University Patna</b> (CGPA: <b>9.0/10</b>), with a strong foundation in <b>Machine Learning</b>, <b>Deep Learning</b>, <b>LLMs</b>, and <b>Software Engineering</b>.
+- 🎓 B.Tech in Computer Science at <b>Amity University Patna</b>, with a strong foundation in <b>Machine Learning</b>, <b>Deep Learning</b>, <b>LLMs</b>, and <b>Software Engineering</b>.
 - 🤖 Full-Stack AI Developer experienced in building production-ready applications using <b>Python</b>, <b>FastAPI</b>, <b>React</b>, <b>RAG</b>, <b>AI Agents</b>, <b>Docker</b>, and <b>AWS</b>.
 - 🚀 Passionate about designing scalable, end-to-end AI systems, intelligent automation workflows, and data-driven applications that solve real-world problems.
 - 📚 Continuously exploring advancements in <b>Generative AI</b>, <b>Agentic AI</b>, <b>MLOps</b>, and cloud technologies.
@@ -45,11 +45,12 @@
 
 <h3 align="left">Skills:</h3>
 
-- **Programming:** Python, Java
-- **AI/ML:** Pandas, NumPy, EDA, Scikit-learn, Tensorflow, LLMs, LangChain, RAG
+- **Programming:** Python
+- **AI:** Machine Learning, Deep Learning, Pandas, NumPy, EDA, Scikit-learn, TensorFlow, Keras
+- **GenAI:** LangChain, RAG, Embeddings, Vector Databases, Large Language Models (LLMs)
 - **Web Development:** HTML, CSS, React, Flask, FastAPI
 - **Databases:** MongoDB, MySQL, FAISS, Pinecone
-- **Cloud & Tools:** Docker, AWS, Azure, Git, Postman, Hugging Face, n8n
+- **Cloud & Tools:** Docker, AWS, Git, Postman, Hugging Face, n8n automation
 
 <h1></h1>
 
